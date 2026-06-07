@@ -20,6 +20,7 @@
 - 💼 Previously: **Lab Assistant at ICAR-IARI Pune** (Onion Hybrid Technology, 2024-2025)
 - 🎯 Looking for: **Thesis collaboration & internship opportunities** in cancer genomics, drug discovery, precision medicine
 - 📫 Reach me: **pradip25215@iiitd.ac.in**
+-   **palekarpradip3@gmail.com**
 
 ---
 
