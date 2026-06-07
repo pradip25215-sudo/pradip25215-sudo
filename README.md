@@ -2,12 +2,13 @@
 <h3 align="center">M.Tech Computational Biology @ IIIT Delhi | Building AI for Drug Discovery, Genomics & Healthcare</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Computational+Biologist+%F0%9F%A7%AC;Deep+Learning+%2B+Genomics+%2B+Drug+Discovery;LLMs+%E2%80%A2+GNNs+%E2%80%A2+NLP+for+Biology;PyTorch+%E2%80%A2+Python+%E2%80%A2+R+%E2%80%A2+SQL;Cancer+Genomics+%26+Precision+Medicine" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=Computational+Biologist+%F0%9F%A7%AC;Deep+Learning+%2B+Genomics+%2B+Drug+Discovery;LLMs+%E2%80%A2+GNNs+%E2%80%A2+NLP+for+Biology;PyTorch+%E2%80%A2+Python+%E2%80%A2+R+%E2%80%A2+SQL;Cancer+Genomics+%26+Precision+Medicine" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to-Work_%26_Collaboration-2ea44f?style=for-the-badge" alt="Open to Work" />
   <img src="https://img.shields.io/badge/Focus-Drug_Discovery_%7C_Genomics-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/AI-LLMs_%7C_NLP_%7C_GNNs-purple?style=for-the-badge" alt="AI" />
 </p>
 
 ---
@@ -20,7 +21,6 @@
 - 💼 Previously: **Lab Assistant at ICAR-IARI Pune** (Onion Hybrid Technology, 2024-2025)
 - 🎯 Looking for: **Thesis collaboration & internship opportunities** in cancer genomics, drug discovery, precision medicine
 - 📫 Reach me: **pradip25215@iiitd.ac.in**
--   **palekarpradip3@gmail.com**
 
 ---
 
@@ -46,6 +46,18 @@ Complete Scanpy pipeline: QC → clustering → cell type annotation on 2,700 PB
 
 ---
 
+### 🤖 AI / LLM / NLP
+
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![BioBERT](https://img.shields.io/badge/BioBERT-22A699?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-1A73E8?style=for-the-badge)
+![ESM-2](https://img.shields.io/badge/ESM--2_Protein_LLM-FF6F00?style=for-the-badge)
+![NER](https://img.shields.io/badge/Named_Entity_Recognition-6B21A8?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-2563EB?style=for-the-badge)
+![GNN](https://img.shields.io/badge/Graph_Neural_Networks-EE4C2C?style=for-the-badge)
+
+---
+
 ### 🛠️ Tech Stack
 
 **Programming & Data Science**  
@@ -57,7 +69,7 @@ Complete Scanpy pipeline: QC → clustering → cell type annotation on 2,700 PB
 **Deep Learning & ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -68,23 +80,38 @@ Complete Scanpy pipeline: QC → clustering → cell type annotation on 2,700 PB
 ![Scanpy](https://img.shields.io/badge/Scanpy-2563EB?style=for-the-badge)
 ![RDKit](https://img.shields.io/badge/RDKit-16A34A?style=for-the-badge)
 ![PyTorch_Geometric](https://img.shields.io/badge/PyG-EE4C2C?style=for-the-badge)
-![BioBERT](https://img.shields.io/badge/BioBERT-22A699?style=for-the-badge)
 ![AutoDock](https://img.shields.io/badge/AutoDock_Vina-6B21A8?style=for-the-badge)
+![Trinity](https://img.shields.io/badge/Trinity-228B22?style=for-the-badge)
+![DIAMOND](https://img.shields.io/badge/DIAMOND_BLAST-00529B?style=for-the-badge)
 
-**Data Analysis & Statistics**  
+**Data Analysis & Visualization**  
 ![Lifelines](https://img.shields.io/badge/Lifelines-C75000?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2563EB?style=for-the-badge)
 
-**Tools**  
+**Developer Tools**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google_Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC_Cluster-444444?style=for-the-badge)
+
+---
+
+### 🌱 Currently Learning
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![GROMACS](https://img.shields.io/badge/GROMACS-555555?style=for-the-badge)
 
 ---
 
